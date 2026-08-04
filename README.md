@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0217-contains-duplicate) |
 ## Merge Sort
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |

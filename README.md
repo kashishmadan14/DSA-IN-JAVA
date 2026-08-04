@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 | [3731-find-missing-elements](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 ## Linked List
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 ## String Matching
 |  |
 | ------- |
@@ -155,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0238-product-of-array-except-self) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

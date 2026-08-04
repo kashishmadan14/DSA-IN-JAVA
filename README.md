@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0049-group-anagrams) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0148-sort-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |

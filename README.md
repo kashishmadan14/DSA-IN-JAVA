@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0048-rotate-image) |
 ## String Matching
 |  |
@@ -145,5 +146,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->

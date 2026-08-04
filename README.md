@@ -22,8 +22,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

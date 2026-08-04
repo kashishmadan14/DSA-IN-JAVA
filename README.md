@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
 | ------- |

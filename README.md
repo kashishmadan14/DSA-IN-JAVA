@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 ## String Matching
 |  |
 | ------- |
@@ -182,14 +185,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

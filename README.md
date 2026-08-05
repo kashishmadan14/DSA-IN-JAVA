@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0226-invert-binary-tree) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0226-invert-binary-tree) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0226-invert-binary-tree) |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0055-jump-game) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0162-find-peak-element) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3310-remove-methods-from-project) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->

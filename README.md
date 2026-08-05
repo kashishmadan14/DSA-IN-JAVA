@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0049-group-anagrams) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0206-reverse-linked-list) |

@@ -21,7 +21,7 @@ class Solution {
     }
 
     private void traverse(TreeNode node, List<Integer> result) {
-        // Base case: If the node is null, return back
+    
         if (node == null) {
             return;
         }

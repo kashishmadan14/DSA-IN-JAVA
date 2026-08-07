@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [3731-find-missing-elements](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -213,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |

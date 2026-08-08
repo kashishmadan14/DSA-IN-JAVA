@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0424-longest-repeating-character-replacement) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0055-jump-game) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |

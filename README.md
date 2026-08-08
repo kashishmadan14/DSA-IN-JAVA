@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
@@ -335,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0912-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0051-n-queens) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0148-sort-list) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -348,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0223-rectangle-area) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

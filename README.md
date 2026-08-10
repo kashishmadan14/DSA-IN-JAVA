@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String Matching
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1510-stone-game-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -364,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0042-trapping-rain-water) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

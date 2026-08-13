@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
 | [1672-richest-customer-wealth](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1672-richest-customer-wealth) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3731-find-missing-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0424-longest-repeating-character-replacement) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
@@ -383,4 +385,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->

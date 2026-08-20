@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0912-sort-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2029-stone-game-ix) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |

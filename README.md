@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0647-palindromic-substrings) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0617-merge-two-binary-trees](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |

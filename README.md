@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0227-basic-calculator-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0227-basic-calculator-ii) |
 ## Enumeration
 |  |
 | ------- |

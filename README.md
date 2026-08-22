@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0647-palindromic-substrings) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
@@ -458,4 +462,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->

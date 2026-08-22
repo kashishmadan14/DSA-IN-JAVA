@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0202-happy-number) |

@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |

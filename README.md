@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
 | ------- |

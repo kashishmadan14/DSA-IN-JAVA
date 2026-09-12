@@ -547,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Concurrency
+|  |
+| ------- |
+| [1226-the-dining-philosophers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->

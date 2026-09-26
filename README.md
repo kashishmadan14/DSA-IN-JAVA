@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0055-jump-game) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0051-n-queens) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
@@ -581,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0310-minimum-height-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->

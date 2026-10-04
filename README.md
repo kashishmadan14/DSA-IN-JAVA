@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1140-stone-game-ii) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2029-stone-game-ix) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0227-basic-calculator-ii) |
+| [0678-valid-parenthesis-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

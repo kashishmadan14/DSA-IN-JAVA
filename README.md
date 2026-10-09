@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0577-employee-bonus) |
+| [0596-classes-with-at-least-5-students](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0596-classes-with-at-least-5-students) |
 ## Array
 |  |
 | ------- |

@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1927-sum-game) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0227-basic-calculator-ii) |
 | [0678-valid-parenthesis-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |

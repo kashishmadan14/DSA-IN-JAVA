@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1531-string-compression-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1531-string-compression-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1927-sum-game) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1510-stone-game-iv) |
+| [1531-string-compression-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1531-string-compression-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

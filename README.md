@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0052-n-queens-ii) |
 ## Newton's Method
 |  |
 | ------- |

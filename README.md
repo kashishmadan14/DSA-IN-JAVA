@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1672-richest-customer-wealth) |
 | [1872-stone-game-viii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2029-stone-game-ix) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0912-sort-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1510-stone-game-iv) |
 | [1531-string-compression-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1531-string-compression-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -415,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1927-sum-game) |
@@ -637,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
@@ -664,9 +671,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Concurrency
 |  |
@@ -680,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -701,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->

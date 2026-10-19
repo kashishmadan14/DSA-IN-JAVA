@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2029-stone-game-ix) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sliding Window

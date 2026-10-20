@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1672-richest-customer-wealth](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1672-richest-customer-wealth) |
 | [1872-stone-game-viii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2029-stone-game-ix) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0835-image-overlap](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0835-image-overlap) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1672-richest-customer-wealth](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1927-sum-game](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2029-stone-game-ix) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -724,4 +727,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Flow Network
+|  |
+| ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->

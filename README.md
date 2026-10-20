@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3886-sum-of-sortable-integers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3886-sum-of-sortable-integers) |
 ## String Matching
 |  |
 | ------- |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3886-sum-of-sortable-integers) |
 ## Design
 |  |
 | ------- |

@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-string-compression-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3163-string-compression-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3941-password-strength](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3941-password-strength) |
 ## Trie
 |  |

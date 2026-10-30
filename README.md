@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3941-password-strength](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3941-password-strength) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
 |  |
 | ------- |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0912-sort-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0310-minimum-height-trees) |
 | [3310-remove-methods-from-project](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -755,4 +758,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->

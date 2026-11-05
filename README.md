@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2333-minimum-sum-of-squared-difference) |

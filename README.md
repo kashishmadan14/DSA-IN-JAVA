@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1672-richest-customer-wealth](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1672-richest-customer-wealth) |
 | [1872-stone-game-viii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2029-stone-game-ix) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0912-sort-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |

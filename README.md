@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1406-stone-game-iii) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0835-image-overlap](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1672-richest-customer-wealth](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -731,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |

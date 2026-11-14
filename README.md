@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/2747-count-zero-request-servers) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kashishmadan14/DSA-IN-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
